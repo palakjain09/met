@@ -1,0 +1,15 @@
+password : palakjain@09
+username:palakjain09
+
+git config --global user.name ""
+git config --global user.email ""
+
+git --version : checking version
+git help : to see all comands
+clear : clear screen
+
+git init - strtng new repository
+git status : check status of loacal repo. it will display project files with status. if they are untracked or commited
+
+git add "filename.extension"
+git add .   : add all filesgit 
